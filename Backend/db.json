@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "Kanhu",
+      "salary": "9000000",
+      "cname": "Microsoft",
+      "id": 1
+    },
+    {
+      "name": "Amar",
+      "salary": "7000000",
+      "cname": "AAAAA",
+      "id": 6
+    },
+    {
+      "name": "Subhasmita",
+      "salary": "10000",
+      "cname": "ABC",
+      "id": 12
+    },
+    {
+      "name": "",
+      "salary": "",
+      "cname": "",
+      "id": 13
+    }
+  ],
+  "user": [
+    {
+      "usr": "admin",
+      "pss": "Kanha"
+    }
+  ]
+}
